@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victoria Walsh-Herranz</h1>
+<h1 align="center">Hi 👋, I'm Victoria</h1>
 <h3 align="center">Passionate about becoming a frontend developer!</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*beEP_5lN03hjXa-7qu6bBw.gif">
 
