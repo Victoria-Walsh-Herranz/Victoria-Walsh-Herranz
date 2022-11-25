@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victoria Walsh-Herranz</h1>
-<h3 align="center">Passionate about becoming a frontend developer!</h3>
+<h3 align="center">Passionate about becoming a Full-stack developer!</h3>
 
 - 🌱 I’m currently learning **React, TypeScript**
 
